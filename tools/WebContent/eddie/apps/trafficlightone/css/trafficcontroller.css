@@ -1,0 +1,45 @@
+#synctime{
+	visibility:hidden;
+}
+
+#notificationshort, #notificationlong {
+	background-color:#222222;
+	border-top: 2px solid #888888;
+	border-radius: 2px;
+	color: #cccccc;
+	padding: 4px 10px 1px 10px;
+	font-size : 20px;
+	font-style : bold;
+	position: absolute;	
+	height:30px;
+	top: -40px;
+	right: 30px;
+	opacity: 1;
+}
+
+.button{
+	border: 1px solid black;
+	width: 100px;
+	height:100px; 
+	text-align: center;
+}
+
+.button#green{
+	background-color: #00ff00;
+}
+
+.button#red{
+	background-color: #ff0000;
+}
+
+.button#yellow{
+	background-color: #ffe303;
+}
+
+div{
+	float:left;
+}
+
+#console{
+	margin-left: 200px;
+}

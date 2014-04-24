@@ -1,0 +1,11 @@
+# ignore bin directories
+bin/
+
+#ignore build directories
+build/
+
+#ignore war directories
+war/
+
+#ignore dist directories
+dist/
