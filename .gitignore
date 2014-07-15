@@ -9,3 +9,5 @@ war/
 
 #ignore dist directories
 dist/
+
+WebContent/WEB-INF/lib/smt_trafficlightoneapp.jar
